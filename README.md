@@ -10,3 +10,24 @@ https://steamcommunity.com/sharedfiles/filedetails/?id=3014703775 	    - working
 
 Is it usefull?\
 href="https://store.steampowered.com/app/552990?snr=2_9_100003__apphubheader" data-appid="552990"\
+
+Data Model\
+Required:\
+author_name\
+author_steamID\
+author_page_URL\
+timestamp\
+comment_text\
+comment_link\
+
+Additional:\
+comment_id\
+author_is_dev\
+comment_len\
+app_id\
+
+Collections:\
+news
+discussions
+videos
+
