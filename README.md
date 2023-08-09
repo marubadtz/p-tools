@@ -31,3 +31,13 @@ news
 discussions
 videos
 
+https://steamcommunity.com/app/552990/allnews/\
+
+data-modal-content-url="https://steamcommunity.com/gid/103582791460535021/announcements/detail/3664293140689082175"\
+
+https://steamcommunity.com/games/552990/announcements/detail/3664293140689082175\
+
+https://steamcommunity.com/app/552990/eventcomments/\
+
+data-partnereventadjacents='[{"announcementGID":"3664293140689082175","adjacents":["3664293140685803267","3664293140689082175","3664293140688665533","3664293140682025631","3664292507078001587"]}]' data-partnereventpermissions=\
+
