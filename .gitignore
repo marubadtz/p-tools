@@ -1,0 +1,6 @@
+lab/
+.space
+.venv
+*.json
+*.csv
+config.py

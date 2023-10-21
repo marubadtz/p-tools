@@ -1,0 +1,17 @@
+# Spacefile Docs: https://go.deta.dev/docs/spacefile/v0
+v: 0
+icon: ./dashboard/assets/steam-icon-1.png
+micros:
+  - name: dashboard
+    src: ./dashboard/
+    engine: python3.9
+    primary: true
+    run: gunicorn app:server
+    dev: ../.venv/bin/python3 app.py
+    public_routes:
+      - "/*"
+  - name: backend
+    src: ./backend/
+    engine: python3.9
+    run: uvicorn main:app
+    dev: uvicorn main:app
